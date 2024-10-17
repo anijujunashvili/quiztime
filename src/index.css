@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(189, 184, 184);
+}
+
+.question_item {
+  max-width: 500px;
+  border: 1px solid red;
+  margin-left: auto;
+  margin-right: auto;
+}
